@@ -12,6 +12,10 @@
   h3 {
     border: 1px solid black;
     text-align: center;
+    width: 150px;
+    position: absolute;
+    top: 0;
+    right: 0;
   }
   /* Simple Responsive Framework. */
 .row {
@@ -25,25 +29,13 @@
     background-color: aqua;
   }
   #h1 {
-    position: absolute;
-    top: 0;
-    right: 0;
     background-color: bisque;
-    width: 150px;
   }
   #h2 {
-    position: absolute;
-    top: 0;
-    right: 0;
     background-color: rgb(228, 120, 13);
-    width: 150px;
   }
   #h3 {
-    position: absolute;
-    top: 0;
-    right: 0;
     background-color: rgb(150, 150, 225);
-    width: 150px;
   }
   p {
     margin-top: 25px;
